@@ -1,0 +1,2 @@
+1. source image (headerLogo, hamburger) dari mana?
+2. dalami pemahaman max-lg: dengan lg:
